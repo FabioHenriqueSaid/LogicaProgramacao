@@ -1,0 +1,9 @@
+C:\Users\said\source\repos\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.deps.json
+C:\Users\said\source\repos\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.dll
+C:\Users\said\source\repos\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.pdb
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csprojAssemblyReference.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfo.cs
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.dll
+C:\Users\said\source\repos\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.pdb

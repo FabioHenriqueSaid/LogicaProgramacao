@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fundamentos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Fundamentos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fundamentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos/1.0.0": {
+      "type": "project",
+      "path": "../Fundamentos/Fundamentos.csproj",
+      "msbuildProject": "../Fundamentos/Fundamentos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Fundamentos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\said\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\said\\source\\repos\\Fundamentos\\Fundamentos.Executar\\Fundamentos.Executar.csproj",
+      "projectName": "Fundamentos.Executar",
+      "projectPath": "C:\\Users\\said\\source\\repos\\Fundamentos\\Fundamentos.Executar\\Fundamentos.Executar.csproj",
+      "packagesPath": "C:\\Users\\said\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\said\\source\\repos\\Fundamentos\\Fundamentos.Executar\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\said\\source\\repos\\Fundamentos\\Fundamentos\\Fundamentos.csproj": {
+              "projectPath": "C:\\Users\\said\\source\\repos\\Fundamentos\\Fundamentos\\Fundamentos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

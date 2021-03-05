@@ -1,0 +1,16 @@
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.exe
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.deps.json
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.runtimeconfig.json
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.runtimeconfig.dev.json
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.dll
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.Executar.pdb
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.csprojAssemblyReference.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.AssemblyInfoInputs.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.AssemblyInfo.cs
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.csproj.CoreCompileInputs.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.dll
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.pdb
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.genruntimeconfig.cache
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.dll
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\bin\Debug\netcoreapp3.1\Fundamentos.pdb
+C:\Users\said\source\repos\Fundamentos\Fundamentos.Executar\obj\Debug\netcoreapp3.1\Fundamentos.Executar.csproj.CopyComplete
