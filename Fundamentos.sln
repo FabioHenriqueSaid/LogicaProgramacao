@@ -3,11 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos", "Fundamentos\Fundamentos.csproj", "{FB99EA53-7304-4CCB-B85A-03D761C0EB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos", "Fundamentos\Fundamentos.csproj", "{FB99EA53-7304-4CCB-B85A-03D761C0EB3B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Executar", "Executar", "{42022CF2-560A-4B03-80E2-4F90B483A781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos.Executar", "Fundamentos.Executar\Fundamentos.Executar.csproj", "{CE96F4D7-73BC-4D8E-80A7-95FA935C1EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.Executar", "Fundamentos.Executar\Fundamentos.Executar.csproj", "{CE96F4D7-73BC-4D8E-80A7-95FA935C1EDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{479A34CF-26B9-4F6B-8A08-1EB21AB432DD}"
+	ProjectSection(SolutionItems) = preProject
+		Conceitos.txt = Conceitos.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heranca", "Heranca", "{896B7D7C-B313-4D37-B19F-7FE6F97646CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulamento", "Encapsulamento", "{72D3B0C2-1F5A-49DE-83EE-D859C3DCFC77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +38,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE96F4D7-73BC-4D8E-80A7-95FA935C1EDD} = {42022CF2-560A-4B03-80E2-4F90B483A781}
+		{896B7D7C-B313-4D37-B19F-7FE6F97646CA} = {479A34CF-26B9-4F6B-8A08-1EB21AB432DD}
+		{72D3B0C2-1F5A-49DE-83EE-D859C3DCFC77} = {479A34CF-26B9-4F6B-8A08-1EB21AB432DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C28737FA-F2B8-44FE-B4D8-16E53B16CCA7}
