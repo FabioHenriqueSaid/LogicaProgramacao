@@ -2,5 +2,8 @@
 
  - Lógica de programação
  - Orientação a objetos
-    - Herança
+    - Herança.
     - Estado e Comportamento.
+    - Abstração.
+    - Polimorfismo.
+    - Encapsulamento.
