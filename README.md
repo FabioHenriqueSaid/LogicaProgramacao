@@ -1,6 +1,6 @@
 # fundamentals
 
- Lógica de programação
- Orientação a objetos
-  - Herança
-  - Estado e Comportamento.
+ - Lógica de programação
+ - Orientação a objetos
+    - Herança
+    - Estado e Comportamento.
